@@ -1,0 +1,324 @@
+id	1010242426
+name	Eleni Miltsakaki
+Posts
+id	1010242426_10202290835444855
+msg	Love!
+	Likes
+		id	100000457346784
+		name	Estela Stiliani
+		id	828292490
+		name	Martha Margetis
+		id	1251727814
+		name	Sophia Beris
+		id	617154749
+		name	Eirini Daskalaki
+		id	1003302277
+		name	Valia Kordoni
+		id	1270568498
+		name	Christina Zerdeva
+
+id	1010242426_10202290811604259
+msg	Check this out Faidra Angelopoulou
+	Likes
+		id	1258492886
+		name	Mary-Angela Papalaskari
+		id	100000903198672
+		name	Faidra Angelopoulou
+	Comments
+		id	10202290811604259_6540173
+		msg	Niceeee :)
+		fromPersonID	100000903198672
+		name	Faidra Angelopoulou
+
+id	1010242426_10202285762398032
+msg	Are you coming? http://www.meetup.com/PhillyEdTechMeetup/events/166074102/?a=cr1_grp&rv=cr1&_af_eid=166074102&_af=event
+
+
+id	1010242426_10202285648075174
+msg	One more favor: Is there anyone who is doing banking with http://www.piraeusbank.gr/ who has been able to receive an extra pin from peiraios to their US cell number? I'd really appreciate the help. I've been with peiraios and verizon on the phone for two hours trying to figure out what the problem is. THANK YOU!
+	Comments
+		id	10202285648075174_6535200
+		msg	Συμπάσχω Ελένη! Αλλά όχι με Πειραιώς. Με Citibank.
+		fromPersonID	617154749
+		name	Eirini Daskalaki
+		id	10202285648075174_6536356
+		msg	SMS isn't guaranteed delivery, just a best-effort store and forward mechanism. There could be a lot of things going wrong, such as the bank gateway dropping non Greek numbers, or the network not forwarding the message to your US carrier. Has it worked for you in the past?
+		fromPersonID	644871131
+		name	Christian Vogler
+		id	10202285648075174_6536592
+		msg	Christian, no it hasn't. I was using the gadget that generates pins but it died. Peiraios and Verizon are still trying to figure it out. I have verified though that I can received text messages from a Greek and Swedish cell phone but not once from Peiraios. My suspicion is that they use a cheap package-carrier that doesn't handle it. They said they will forward a request to try another carrier tomorrow (during business hours). We'll see. Can't give it up. I have NO other way right now to receive an extra pin.
+		fromPersonID	1010242426
+		name	Eleni Miltsakaki
+
+id	1010242426_10202284994138826
+msg	I'm curious to see how this will turn out and if it'll be for the better.
+
+id	1010242426_10202284355282855
+msg	
+	Likes
+		id	693815402
+		name	Silvia Gennari
+		id	601828813
+		name	Vaggelis Melas
+		id	801414558
+		name	Tonia Bleam
+		id	1251727814
+		name	Sophia Beris
+		id	100002796928061
+		name	Peter Seyfried
+		id	1003302277
+		name	Valia Kordoni
+		id	100003345283685
+		name	Laia Mayol
+		id	1270568498
+		name	Christina Zerdeva
+
+id	1010242426_10202281478170929
+msg	
+	Likes
+		id	100004904228334
+		name	Dimitrios Kokkinakis
+		id	1081323434
+		name	Christos Georgiadis
+		id	1258492886
+		name	Mary-Angela Papalaskari
+		id	100003514326767
+		name	Maria Katopodi
+		id	100001206906278
+		name	ΚΙΚΗ Δ. ΚΑΤΣΑΛΟΥΛΗ
+		id	1581530024
+		name	Melina Daskalakis
+		id	590059877
+		name	Terzi Arhonto
+		id	1270568498
+		name	Christina Zerdeva
+		id	1319682459
+		name	Elissavet Klouvatou
+		id	1465599008
+		name	Christos Miltsakakis
+	Comments
+		id	10202281478170929_6532086
+		msg	Δεν το πιστεύω ότι το παρακολουθείτε από εκεί!
+		fromPersonID	590059877
+		name	Terzi Arhonto
+		id	10202281478170929_6532118
+		msg	Ε, όχι ακριβώς. Αλλά έκανε την ανάρτηση ο αδερφός μου και φυσικά θα το δείξω στο γιο μου που παίζει ποδόσφαιρο.  :-)
+		fromPersonID	1010242426
+		name	Eleni Miltsakaki
+
+id	1010242426_10202281157482912
+msg	Facebook retires its email service. Henry Blodget of Business Insider had called the FB's decision to get into email a “brilliant” move but didn't turn out this way. http://www.npr.org/blogs/alltechconsidered/2014/02/25/282535068/facebook-shutters-its-email-service-since-no-one-used-it
+	Likes
+		id	1081323434
+		name	Christos Georgiadis
+		id	617154749
+		name	Eirini Daskalaki
+	Comments
+		id	10202281157482912_6531812
+		msg	Γιατι και που το ειχε ποιος το χρησιμοποιουσε?
+		fromPersonID	1465599008
+		name	Christos Miltsakakis
+		id	10202281157482912_6532063
+		msg	Γι' αυτό ακριβώς το σταμάτησε. Οταν το ξεκίνησε όμως θεωρούσε ότι θα καταστρέψει το  gmail.
+		fromPersonID	1010242426
+		name	Eleni Miltsakaki
+
+id	1010242426_10202280907676667
+msg	Very excited about the sxswedu conference staring this Sunday in Austin! http://www.sxswedu.com/conference
+	Likes
+		id	7965404
+		name	Anthony Petrosino
+		id	1080037533
+		name	Chrystalla Mouza
+		id	1105240612
+		name	Nectaria Tryfona
+		id	1003302277
+		name	Valia Kordoni
+	Comments
+		id	10202280907676667_6534155
+		msg	are you going?
+		fromPersonID	1080037533
+		name	Chrystalla Mouza
+		id	10202280907676667_6534179
+		msg	Who else is going? Chrystalla?
+		fromPersonID	7965404
+		name	Anthony Petrosino
+		id	10202280907676667_6534181
+		msg	No Tony. Hoping to see you at AERA.
+		fromPersonID	1080037533
+		name	Chrystalla Mouza
+		id	10202280907676667_6534494
+		msg	Yes, Chrystalla, I'm going!
+		fromPersonID	1010242426
+		name	Eleni Miltsakaki
+
+id	1010242426_10202276453885325
+msg	
+	Likes
+		id	100000284414169
+		name	Gorretti Wawyre
+		id	665998591
+		name	NancyLee Bergey
+		id	1622017623
+		name	Karen Kossman
+		id	1267611122
+		name	Debbie Kossman
+		id	100003099623404
+		name	Debbie Sklikas
+		id	1112014441
+		name	Dora Alexopoulou
+		id	717353024
+		name	Maria Angelou
+		id	1270568498
+		name	Christina Zerdeva
+		id	1313394548
+		name	Eleni Agathopoulou
+		id	100000756768510
+		name	Kiko Susami
+		id	1003302277
+		name	Valia Kordoni
+		id	1335397771
+		name	Maria Blani
+		id	100000242337350
+		name	Alexis Muller
+		id	718413643
+		name	Yota Shinohoritis
+		id	1581363697
+		name	Andy Kehler
+		id	1308811130
+		name	Mika Tsekoura
+		id	695436222
+		name	Heidi Harley
+		id	608668129
+		name	George Trigas
+		id	617154749
+		name	Eirini Daskalaki
+		id	536271963
+		name	Donna Murdoch
+		id	1105240612
+		name	Nectaria Tryfona
+		id	680802164
+		name	Avery Andrews
+		id	713358973
+		name	Nana Elhariry
+	Comments
+		id	10202276453885325_6529329
+		msg	Τελειο!
+		fromPersonID	1112014441
+		name	Dora Alexopoulou
+		id	10202276453885325_6529477
+		msg	Η ιστορια της ζωης μου!!!
+		fromPersonID	100003099623404
+		name	Debbie Sklikas
+		id	10202276453885325_6531532
+		msg	A strange thing: I see a very high correlation between likes and parent-likers in this post :-)
+		fromPersonID	1010242426
+		name	Eleni Miltsakaki
+
+id	1010242426_10202268151717776
+msg	
+	Likes
+		id	100000457346784
+		name	Estela Stiliani
+		id	1105240612
+		name	Nectaria Tryfona
+		id	1270568498
+		name	Christina Zerdeva
+		id	100003099623404
+		name	Debbie Sklikas
+		id	718413643
+		name	Yota Shinohoritis
+		id	840503640
+		name	Panos Englezos
+		id	1003302277
+		name	Valia Kordoni
+
+id	1010242426_10202266759922982
+msg	
+
+id	1010242426_10202266732802304
+msg	
+	Likes
+		id	100002796928061
+		name	Peter Seyfried
+
+id	1010242426_10202266318631950
+msg	
+	Likes
+		id	1258492886
+		name	Mary-Angela Papalaskari
+		id	100002796928061
+		name	Peter Seyfried
+		id	1270568498
+		name	Christina Zerdeva
+		id	1003302277
+		name	Valia Kordoni
+		id	7965404
+		name	Anthony Petrosino
+		id	677312657
+		name	Janice M. Colon-Mahoney
+	Comments
+		id	10202266318631950_6521976
+		msg	Hahaha!
+		fromPersonID	100000242337350
+		name	Alexis Muller
+
+id	1010242426_10202256837234921
+msg	Driving to Baltimore tomorrow for the tech for schools summit. https://www.edsurge.com/guide/baltimore-edsurge-tech-for-schools-summit
+	Likes
+		id	1003302277
+		name	Valia Kordoni
+		id	718413643
+		name	Yota Shinohoritis
+
+id	1010242426_10202256813314323
+msg	Lower Merion School District, this announcement of a snow day is way more fun than the text we got :-) http://www.youtube.com/watch?v=HhtqjdUi0nw
+	Likes
+		id	1313394548
+		name	Eleni Agathopoulou
+		id	1003302277
+		name	Valia Kordoni
+
+id	1010242426_10202256397703933
+msg	
+	Likes
+		id	1081323434
+		name	Christos Georgiadis
+		id	100003514326767
+		name	Maria Katopodi
+		id	100000242337350
+		name	Alexis Muller
+		id	1003302277
+		name	Valia Kordoni
+		id	1270568498
+		name	Christina Zerdeva
+
+id	1010242426_10202256396023891
+msg	
+	Likes
+		id	1003302277
+		name	Valia Kordoni
+		id	1270568498
+		name	Christina Zerdeva
+
+id	1010242426_10202256027454677
+msg	I agree. I liked Yuna Kim's performance better.
+	Likes
+		id	1308811130
+		name	Mika Tsekoura
+		id	1105240612
+		name	Nectaria Tryfona
+		id	1003302277
+		name	Valia Kordoni
+	Comments
+		id	10202256027454677_6516428
+		msg	They were all so amazing but I liked Carolina Kostner best of all. She may not have done excessive technical tricks and turns but she was the most graceful skater-dancer I saw in my life!
+Adelina was technically amazing but I did not feel the passion, the grace...
+And Yuna was indeed equally excellent in both technical and artistic elements
+Hard to decide indeed, particularly when one considers the vague guidelines for the judges!
+		fromPersonID	1308811130
+		name	Mika Tsekoura
+
+id	1010242426_10202255784568605
+msg	
+

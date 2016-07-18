@@ -1,0 +1,46 @@
+id	100000764911720
+name	Eric Miller
+Posts
+id	100000764911720_655534854482006
+msg	
+	Likes
+		id	100000452484062
+		name	Pam Schmidt
+		id	1334134315
+		name	Valerie Chapman-Stockwell
+		id	571529517
+		name	Leonard Abeyta
+		id	100001137951999
+		name	Liz Abeyta
+		id	1060960228
+		name	Ralph Bullock
+		id	1066179841
+		name	Carol Smith
+		id	100000960173811
+		name	Bambi Miller
+	Comments
+		id	655534804482011_1739651
+		msg	Is your father still sick Eric?
+		fromPersonID	1284697469
+		name	Marjolijn Vanderhorst
+		id	655534804482011_1739725
+		msg	Marjolijn Vanderhorst he had gotten a blood clot in his heart pump.   And was back in for treatment.   He is home now as of late Friday.
+		fromPersonID	100000960173811
+		name	Bambi Miller
+
+id	100000764911720_607662215935937
+msg	I thought Sundays were supposed to be a day of rest.   Not when you are a farmer.
+	Likes
+		id	1570555015
+		name	Laurie Merwin
+		id	100000452484062
+		name	Pam Schmidt
+		id	1305043158
+		name	Jodi Olson
+		id	1418561385
+		name	Lynda Larsen
+		id	100000960173811
+		name	Bambi Miller
+		id	1366149698
+		name	Joseph Farnik
+
